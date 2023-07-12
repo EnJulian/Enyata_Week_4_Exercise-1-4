@@ -1,0 +1,117 @@
+﻿// Exercise1: Calculate the area and perimeter of a rectangle
+
+// Step 1: Define variables for length and width of the rectangle
+
+
+// Step 2: Calculate the area of the rectangle using the formula: area = length * width
+
+
+// Step 3: Update the width by adding 2 to it using assignment operator
+
+
+// Step 4: Calculate the perimeter of the rectangle using the formula: perimeter = 2 * (length + width)
+
+
+// Step 5: Display the calculated area and perimeter using string interpolation
+
+
+// Step 6: Calculate the square root of the area using the Math object
+
+
+// Step 7: Display the square root of the area using string interpolation
+
+
+// Step 8: Convert the area to a string and display its length using string methods
+
+
+
+
+
+
+// Exercise 2: Calculate the total price of a shopping cart
+
+// Step 1: Define variables for the initial price and quantity of an item
+
+
+// Step 2: Display the initial price and quantity
+
+
+// Step 3: Apply a discount of 20% using the decrement operator
+
+
+// Step 4: Increase the quantity by 1 using the increment operator
+
+
+// Step 5: Calculate the total price by multiplying the updated price and quantity
+
+
+// Step 6: Display the updated price, quantity, and total price using template literals
+
+
+
+
+
+
+// Exercise 3: Calculate the compound interest and display a savings summary
+
+// Step 1: Define variables for principal amount, interest rate, and time period
+
+
+// Step 2: Calculate the compound interest using the formula: A = P * (1 + r/n)^(nt)
+
+
+// Step 3: Round the compound interest to 2 decimal places using the toFixed() method
+
+
+// Step 4: Display the compound interest
+
+
+// Step 5: Update the interest rate by decrementing it by 0.01 using the decrement operator
+
+
+// Step 6: Calculate the new compound interest with the updated interest rate
+
+
+// Step 7: Calculate the difference between the new and previous compound interests
+
+
+// Step 8: Display the new compound interest and the difference compared to the previous interest
+
+
+// Step 9: Convert the compound interest to a string and extract the cents using string methods
+
+
+// Step 10: Display the extracted cents from the compound interest
+
+
+// Step 11: Calculate the total amount by adding the principal and compound interest
+
+
+// Step 12: Display the total amount using string interpolation and the toLocaleString() method
+
+
+
+
+
+
+// Exercise 4: Manipulating and displaying information from a user input
+
+// Step 1: Store the user's full name into a const variable
+
+
+// Step 2: Extract the first name and last name from the user input
+
+
+// Step 3: Capitalize the first letter of the first name
+
+
+// Step 4: Reverse the last name
+
+
+// Step 5: Count the number of characters in the full name
+
+
+// Step 6: Check if the full name contains the letter 'a'
+
+
+// Step 7: Display the extracted information using template literals
